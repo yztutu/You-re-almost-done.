@@ -1,0 +1,5 @@
+host-keyword,netflix,proxy
+host-keyword,nflx,proxy
+host-keyword,dualstack.apiproxy-,proxy
+host-keyword,dualstack.ichnaea-web-,proxy
+host-suffix,us-west-2.amazonaws.com,proxy

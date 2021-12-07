@@ -1,0 +1,8 @@
+[Rule]
+
+## 域名
+DOMAIN-SUFFIX,whatsapp.com,Proxy
+DOMAIN-SUFFIX,whatsapp.net,Proxy
+DOMAIN-SUFFIX,whatsapp.biz,Proxy
+DOMAIN,graph.facebook.com,Proxy
+DOMAIN-SUFFIX,bintray.com,Proxy
